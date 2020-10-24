@@ -1,4 +1,4 @@
-# Flutter Currency Converter App
+# Flutter - Currency Converter App
 A Currency Converter app using Flutter SDK 1.17
 
 ![Screen1](https://raw.githubusercontent.com/adnerscarpelini/flutter_conversor_moeda/master/ImagensFinal/Screenshot_1.png "Screen1")
