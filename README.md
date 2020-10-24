@@ -14,7 +14,7 @@ This project was developed with the following technologies:
 To clone and run this application, you'll need Git, Android Studio and Flutter SDK 1.17 installed on your computer. From your command line:
 
 1.  Clone this repository:  $ git clone
-https://github.com/adnerscarpelini/flutter_conversor_moeda.git
+https://github.com/adnerscarpelini/flutter-currencyconverterapp.git
 
 2.  Build  and  run the app with Android Studio
 https://developer.android.com/studio/run
